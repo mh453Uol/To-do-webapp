@@ -10,7 +10,7 @@ Simple To do web app using Spring MVC,JSTL and JSP. Small project to help learn 
 5. Inside Root Director navigate to project
 6. Then Finish Button
 
-##Features
+## Features
 1. Add Todo
 2. Edit Todo
 3. Delete Todo
