@@ -15,6 +15,9 @@ Simple To do web app using Spring MVC,JSTL and JSP. Small project to help learn 
 2. Edit Todo
 3. Delete Todo
 4. View Todos
+5. Web Services (Restful) 
+6. Greeting Web Service - https://github.com/mh453Uol/To-do-webapp/blob/master/src/main/java/com/todo/webservices/GreetingController.java
+7. Utility Service - generates random UUIDs and random numbers - https://github.com/mh453Uol/To-do-webapp/blob/master/src/main/java/com/todo/webservices/RandomUUIDController.java
 ## Images
 
 1. Todos list view 
